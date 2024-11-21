@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://tinehealth.com/wp-content/uploads/2017/07/Tine-Website-Photos-Articles-24.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: black;
+ }
+ h1 {
+    color: black;
+    font-family: "Emblema One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+ }
+ h2 {
+    color: greenyellow;
+ }
+ h3 {
+    color: red;
+ }
+ li .index{
+    color: orange;
+ }
+ a {
+    color: white;
+    background-color: aqua;
+ }
+ .menu li{
+    display: inline;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
